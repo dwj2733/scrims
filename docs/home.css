@@ -12,6 +12,7 @@
     border-radius: 16px;
     transition-property: background-color;
     transition-duration: .3s;
+    justify-content: space-between;
 }
 
 .player:hover{
