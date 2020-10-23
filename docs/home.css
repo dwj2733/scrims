@@ -98,3 +98,23 @@ main{
 .lanes{
     padding: 8px;
 }
+
+.bronze{
+    border: solid #885745 3px;
+}
+
+.silver{
+    border: solid #68797c 3px;
+}
+
+.gold{
+    border: solid #d3c286 3px;
+}
+
+.platinum{
+    border: solid #8db7b4 3px;
+}
+
+.diamond{
+    border: solid #a8b0e7 3px;
+}
