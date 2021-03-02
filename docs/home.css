@@ -24,6 +24,10 @@
     line-height: 50px;
 }
 
+.rating{
+    margin-right: 20px;
+}
+
 .icon{
     width: 60px;
     height: auto;
