@@ -1,0 +1,134 @@
+html{
+    background-color: #111111;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0 auto;
+    padding: 0px;
+}
+
+header{
+    background-color: #333333;
+    margin: 0px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 36px;
+    padding: 16px 40px 24px;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    padding: 0px;
+    margin: 0px 50px 0px 0px;
+    font-family: sans-serif;
+    font-size: 36px;
+    transition-property: text-decoration;
+    transition-duration: .3s;
+}
+
+header a:hover{
+    text-decoration: underline;
+}
+
+header h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+main{
+    display: flex;
+    flex-flow: column;
+    width: 90%;
+    margin: 24px auto;
+}
+
+.region{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    background-color: #333333;
+    padding: 16px 16px;
+    height: auto;
+    margin: 40px 32px;
+    border-radius: 16px;
+}
+
+.region img{
+    height: 150px;
+}
+
+.title{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.region h2{
+    font-size: 72px;
+    padding: 0px 0px 0px 30px;
+    margin: 0px;
+}
+
+.champs img{
+    width: 60px;
+    height: 60px;
+    padding: 8px;
+}
+
+#bandlecity{
+    background-color: #c693d3;
+}
+
+#bilgewater{
+    background-color: #bf9000;
+}
+
+#demacia{
+    background-color: #ddd1bb;
+}
+
+#ionia{
+    background-color: #d19cb7;
+}
+
+#noxus{
+    background-color: #dd7e6b;
+}
+
+#piltover{
+    background-color: #dfb946;
+}
+
+#shadowisles{
+    background-color: #90c0c3;
+}
+
+#shurima{
+    background-color: #beae7c;
+}
+
+#targon{
+    background-color: #7977c5;
+}
+
+#thefreljord{
+    background-color: #54b4d8;
+}
+
+#thevoid{
+    background-color: #a630b5;
+}
+
+#zaun{
+    background-color: #6aa84f;
+}
